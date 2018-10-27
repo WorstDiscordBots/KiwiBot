@@ -5,6 +5,7 @@
 In this arcticle I'll try to prove that KiwiBot is one of the worst and sure is the most useless bot that can be found on discord and why following [these](https://github.com/WRMSRwasTaken/discord-bot-challenges) rules doesn't help it.
 
 ### Appearence
+<img height=256 src=.github/avatar.png>
 First thing you see in any bot is it's avatar and name these make bot unique. Let's take a look at KiwiBot.  
 You think there's some story behind choosing kiwi as a mascot? Hell no. Authors imagination just died and this is the result. This bot has nothing to do with innocent kiwi birds used without New Zealand government permission.
 
@@ -31,6 +32,8 @@ I deleted my message and bot deleted response, what?????
 
 ### Uptime
 The following image clearly demonstartes poor bot's uptime. It shows how owner doesn't care about it. Think about uptime this way: every 100th minute you can say that bot is down with the confidense of 65%.
+
+<img align=center height=256 src=.github/uptime.png>
 
 This image is done by Belphegor, much better discord bot. You can check it out [here](https://github.com/nguuuquaaa/Belphegor).
 
