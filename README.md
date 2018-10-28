@@ -2,7 +2,7 @@
 
 
 ### Introduction
-In this arcticle I'll try to prove that KiwiBot is one of the worst and sure is the most useless bot that can be found on discord and why following [these](https://github.com/WRMSRwasTaken/discord-bot-challenges) rules doesn't help it.
+In this arcticle I'll try to prove that KiwiBot is one of the worst and sure is the most useless bot that can be found on discord and why following [these](https://github.com/Fogapod/discord-bot-challenges) rules doesn't help it.
 
 ### Appearence
 <img height=256 src=.github/avatar.png>
