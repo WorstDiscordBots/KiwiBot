@@ -15,7 +15,7 @@ KiwiBot is written in python which makes it extremely slow.
 ### Application
 It tries to be a multi-purpose bot and obviously can't do any of it's tasks properly.  
 Bot has a vast range of commands:
-* ~~Image manipulation~~ (not even a thing yet)
+* Image manipulation
 * Moderation
 * Translators
 * Voice-based commands
