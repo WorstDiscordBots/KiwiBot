@@ -22,6 +22,7 @@ Bot has a vast range of commands:
 * Text generation
 * Commands for gathering info about discord objects (users, channels, etc.)
 * And more
+
 How do you imagine a single bot managing doing all of that? (if it isn't NotSoBot)
 
 ### Ratelimits
