@@ -36,7 +36,7 @@ The following image clearly demonstartes poor bot's uptime. It shows how owner d
 
 <img align=center height=256 src=.github/uptime.png>
 
-This image is done by Belphegor, much better discord bot. You can check it out [here](https://github.com/nguuuquaaa/Belphegor).
+This image was created by Belphegor, much better discord bot. You can check it out [here](https://github.com/nguuuquaaa/Belphegor).
 
 ### Money
 KiwiBot doesn't have annoying Patreon baits offering you lower ratelimits or exclusive commands access for $1 or more. It means bot owner will just run out of money eventually and delete the bot without the ability to pay for hosting anymore.
@@ -45,6 +45,9 @@ KiwiBot doesn't have annoying Patreon baits offering you lower ratelimits or exc
 KiwiBot's source code can be found [here](http://github.com/Fogapod/KiwiBot), but wait, don't open it!  
 This repository contains enormous amount of dirty, overcomplicated spaghetti code and all kinds of programming anti-patterns.  
 It can be useful only if you're looking for an example of bad python code. Then go for it. There should be enough material for a few novels at least.
+
+#### Some commentary from python experts if you don't belive me:
+<img src=.github/experts/Tom.png>
 
 ### Conclusion
 In this article I examined the most obvious disadvantages of KiwiBot, but there are much more.  
