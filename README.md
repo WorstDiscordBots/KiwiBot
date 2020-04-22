@@ -49,6 +49,12 @@ It can be useful only if you're looking for an example of bad python code. Then 
 #### Some commentary from python experts if you don't belive me:
 <img src=.github/experts/Tom.png>
 
+### Verification
+KiwiBot will never be verified with new invasive and privacy violating developer ID verification. This means that you won't be able to invite it to new 
+guilds once it reaches 100 (as of April 22nd) guilds (which it already done).
+
+You can read more about upcoming changes [here](https://blog.discord.com/the-future-of-bots-on-discord-4e6e050ab52e)
+
 ### Conclusion
 In this article I examined the most obvious disadvantages of KiwiBot, but there are much more.  
 I hope it was useful and convinced you not to invite KiwiBot to your server at [admin](https://discordapp.com/oauth2/authorize?client_id=394793577160376320&scope=bot&permissions=8) | [no admin](https://discordapp.com/oauth2/authorize?client_id=394793577160376320&scope=bot&permissions=2146958583) and delete it from your server if it's already in.
